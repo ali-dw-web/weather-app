@@ -1,36 +1,70 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# ☀️ Weather App
 
-## Getting Started
+> A modern, responsive weather application built with **React** and **Next.js**.  
+> Check real-time weather updates for any city, view forecasts.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## ✨ Key Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- 🌍 Search for current weather in any city worldwide  
+- 📅 7-day weather forecast with temperature and conditions  
+- 🌡 Displays temperature, humidity, wind speed, and more  
+- 🎨 Modern and fully responsive UI for desktop and mobile  
+- ⚡ Fast, real-time updates with smooth transitions
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🌤 Weather Overview
 
-## Learn More
+The Weather App provides detailed meteorological information, including:
 
-To learn more about Next.js, take a look at the following resources:
+- 🕒 **Hourly & Daily Forecasts** – 
+- 💨 **Wind Speed & Direction** –
+- ⏰ **Time Zone** – 
+- 🌡 **Temperature, Humidity & Conditions**
+- <img width="1366" height="637" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/0d72a43f-1eeb-400e-a8bc-b3991f8ff752" />
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🔍 Search & Favorite Cities
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- 🌆 **Search for any city** 
+- ⭐ **Add cities to your Favorites list** for quick access later. 
+- 💾 **Local Storage**  
+- 🏃‍♂️ Quickly switch between favorite cities to check weather 
+<img width="1366" height="640" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/82789cae-281f-41bc-b21e-922f53305e0c" />
+---
+<img width="1366" height="640" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/56ab943e-bded-4375-9b61-3c5ae4307fa5" />
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🗺 Map Feature
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Users can explore the weather visually using the **interactive map**.  
+- 🌍 Find your desired location directly on the map.  
+- 🖱 Click on the location and press **"Load the Location"** to view real-time weather information for that area.  
+- Provides an **intuitive and interactive way** to check weather across multiple regions.
+<img width="1366" height="629" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/f40881fb-8ba9-49d6-830c-cf8e0f376c17" />
+---
+## ⚙️ Settings – Change Units
+
+- Users can customize the weather display by **changing measurement units**.  
+- 🌡 **Temperature** can be switched between Celsius (°C) and Fahrenheit (°F).  
+- 💨 **Wind Speed** can be toggled between km/h and mph.  
+- Provides a **personalized and user-friendly experience** for different preferences.
+- <img width="1010" height="641" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/33236233-8063-4e27-9905-7d60a7e6511d" />
+## 🛠 Technology & Highlights
+
+This Weather App is built using...
+
+- ⚛️ **React** – 
+- ⬆️ **Next.js** –
+- 🎨 **Tailwind CSS** – 
+- 🔗 **APIs** – 
+- 🗄 **State Management** – 
+- 📱 **Responsive Design** – 
+## 🌍 Live Demo
+
+Experience the Weather App live:
+
+- 🔗 Click the link below to try the **real-time weather application**.  
+[View Live Demo](https://weather-app-ochre-sigma-82.vercel.app/)
+
