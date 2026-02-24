@@ -1,3 +1,11 @@
+## 🌍 Live Demo
+Experience the Weather App live:
+
+- 🔗 Click the link below to try the **real-time weather application**.  
+[View Live Demo](https://weather-app-ochre-sigma-82.vercel.app/)
+
+
+
 # ☀️ Weather App
 
 > A modern, responsive weather application built with **React** and **Next.js**.  
@@ -60,11 +68,6 @@ This Weather App is built using...
 - 🎨 **Tailwind CSS** – 
 - 🔗 **APIs** – 
 - 🗄 **State Management** – 
-- 📱 **Responsive Design** – 
-## 🌍 Live Demo
+- 📱 **Responsive Design** –
 
-Experience the Weather App live:
-
-- 🔗 Click the link below to try the **real-time weather application**.  
-[View Live Demo](https://weather-app-ochre-sigma-82.vercel.app/)
-
+- 
